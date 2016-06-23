@@ -26,7 +26,7 @@ h2{
 	background-color: white;
 	height: 100px;
 	width: 100px;
-	border: solid 2px black;
+	border: solid 2px grey;
 	margin-left: 500px
 }
 #circle2{
@@ -36,7 +36,7 @@ h2{
 	height: 100px;
 	width: 100px;
 	margin-top: -100px;
-	border: solid 2px black;
+	border: solid 2px grey;
 }
 #circle3{
 	margin-left: 700px;
@@ -45,11 +45,28 @@ h2{
 	height: 100px;
 	width: 100px;
 	margin-top: -105px;
-	border: solid 2px black;
+	border: solid 2px grey;
 }
 #circle4{
+	margin-left: 515px;
+	background-color: #EFEFEF;
 	border-radius: 1000px;
-	background-color: white;
-	height: 50px;
-	width: 50px;
+	height: 75px;
+	width: 75px;
+	margin-top: 70px;
+	border: solid 2px grey;
+}
+#chevron{
+	margin-top: 8px;
+}
+#box{
+	margin-top: 100px;
+	border:solid 2px grey;
+	height: 900px
+	width: 100%;
+	background-color: grey;
+}
+#bottom{
+	height: 1000px;
+	width: 1000px ;
 }
